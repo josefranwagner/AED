@@ -1,4 +1,6 @@
-## Compilador utilizado: MinGW + Visual Studio Code
+## Compilador utilizado
+
+**MinGW + Visual Studio Code**
 
 ## Análisis del Problema
 
