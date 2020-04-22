@@ -1,12 +1,12 @@
-## Compilador utilizado: *MinGW + Visual Studio Code*
+## Compilador utilizado: MinGW + Visual Studio Code
 
 ## Análisis del Problema
 
 *Se debe crear un programa en lenguaje C++ que muestre por pantalla el mensaje Hello, World!*
 
-#Entradas: -
-#Proceso: Enviar mensaje a salida estandar
-#Salidas: Mensaje en pantalla
+##Entradas: -
+##Proceso: Enviar mensaje a salida estandar
+##Salidas: Mensaje en pantalla
 
 ## Diseño de la solución
 
