@@ -1,9 +1,15 @@
+# Análisis del problema
 
-***Representación visual del algoritmo***
+## Transcripción del problema
 
-[ ] A
-[x] B
-[ ] C
+## Refinamiento del problema e Hipótesis de trabajo
 
+## Modelo IPO
+
+# Diseño de la Solución
+
+## Léxico del Algoritmo
+
+## Representación del Algoritmo
 
 [Representación visual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/DiagramaDeFlujo.PNG)
