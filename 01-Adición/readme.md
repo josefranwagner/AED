@@ -1,1 +1,1 @@
-![Representación visual del algoritmo](https://github.com/josefranwagner/AED/DiagramaDeFlujo.PNG)
+![Representación visual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/DiagramaDeFlujo.PNG)
