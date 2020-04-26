@@ -13,3 +13,5 @@
 ## Representación del Algoritmo
 
 [Representación visual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/DiagramaDeFlujo.PNG)
+
+[Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/adicion.cpp)
