@@ -2,7 +2,7 @@
 
 ## Transcripción del problema
 
-*Realizar la suma de dos numeros enteros ingresados por el usuario y mostrarla en pantalla.*
+*Realizar la suma de dos numeros enteros ingresados por el usuario y mostrar el resultado por pantalla.*
 
 ## Refinamiento del problema e Hipótesis de trabajo
 
