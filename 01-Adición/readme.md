@@ -4,7 +4,7 @@
 
 ## Refinamiento del problema e Hipótesis de trabajo
 
-## [Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/IPO.PNG)
+## [Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/IPO.png)
 
 
 # Diseño de la Solución
@@ -13,6 +13,6 @@
 
 ## Representación del Algoritmo
 
-[Representación visual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/DiagramaDeFlujo.PNG)
+[Representación visual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/DiagramaDeFlujo.png)
 
 [Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/adicion.cpp)
