@@ -4,7 +4,7 @@
 
 ## Refinamiento del problema e Hipótesis de trabajo
 
-## Modelo IPO
+## [Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/IPO.PNG)
 
 # Diseño de la Solución
 
