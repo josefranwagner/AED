@@ -2,13 +2,19 @@
 
 ## Transcripción del problema
 
+*Realizar la suma de dos numeros enteros ingresados por el usuario y mostrarla en pantalla.*
+
 ## Refinamiento del problema e Hipótesis de trabajo
+
+**
 
 ## [Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/IPO.png)
 
 # Diseño de la Solución
 
 ## Léxico del Algoritmo
+
+**
 
 ## Representación del Algoritmo
 
