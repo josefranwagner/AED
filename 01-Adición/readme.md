@@ -6,6 +6,7 @@
 
 ## [Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/IPO.PNG)
 
+
 # Diseño de la Solución
 
 ## Léxico del Algoritmo
