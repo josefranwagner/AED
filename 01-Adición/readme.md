@@ -16,7 +16,7 @@
 
 *Se ingresan dos variables de tipo enteras y se muestra por pantalla un resultado también del tipo entero*
 
-## Representación del Algoritmo
+# Representación del Algoritmo
 
 ## Representación visual del algoritmo
 
