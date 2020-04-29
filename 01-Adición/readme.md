@@ -18,7 +18,7 @@
 
 ## Representación del Algoritmo
 
-### Representación visual del algoritmo
+## Representación visual del algoritmo
 
 ![Representación visual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/DiagramaDeFlujo.png)
 
