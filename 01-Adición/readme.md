@@ -8,7 +8,7 @@
 
 *Se solicita al usuario el ingreso de dos valores del tipo enetero, se almacenan en dos variables del mismo tipo y se devuelve mediante la salida estandar el resultado de la suma entre esos dos valores*
 
-## [Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/IPO.png)
+## ![Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/IPO.png)
 
 # Diseño de la Solución
 
@@ -18,6 +18,6 @@
 
 ## Representación del Algoritmo
 
-[Representación visual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/DiagramaDeFlujo.png)
+![Representación visual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/DiagramaDeFlujo.png)
 
-[Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/adicion.cpp)
+![Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/adicion.cpp)
