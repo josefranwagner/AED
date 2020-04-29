@@ -20,4 +20,4 @@
 
 ![Representación visual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/DiagramaDeFlujo.png)
 
-![Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/adicion.cpp)
+[Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/adicion.cpp)
