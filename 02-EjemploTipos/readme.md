@@ -14,8 +14,6 @@
 
 ## Léxico del Algoritmo
 
-*Se utilizarán:
-
 2 cadenas de caracteres (strings)
 
 1 numeor negativo (int)
