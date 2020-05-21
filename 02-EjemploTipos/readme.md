@@ -8,8 +8,6 @@
 
 *Para demostrar la aplicación de los conocimientos obtenidos en clase se creará una variable de cada tipo y se realizarán diferentes operaciones entre ellas validadas mediante la función assert, poniendo como condición a evaluar lo esperado de dicha operación*
 
-## Modelo IPO
-
 # Diseño de la Solución
 
 ## Léxico del Algoritmo
