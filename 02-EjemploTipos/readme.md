@@ -14,17 +14,17 @@
 
 ## Léxico del Algoritmo
 
-2 cadenas de caracteres (strings)
+2 cadenas de caracteres (tipo string)
 
-1 numeor negativo (int)
+1 numeor negativo (tipo int)
 
-1 booleano (bool)
+1 booleano (tipo bool)
 
-1 numero positivo (unsigned)
+1 numero positivo (tipo unsigned)
 
-1 numero real (double)
+1 numero real (tipo double)
 
-1 caracter (char)*
+1 caracter (tipo char)
 
 # Representación del Algoritmo
 
