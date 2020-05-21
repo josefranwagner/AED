@@ -6,7 +6,7 @@
 
 ## Refinamiento del problema e Hipótesis de trabajo
 
-**
+*Se deberán mostrar los distintos tipos de datos aprendidos en clase junto con sus operaciones*
 
 ## Modelo IPO
 
@@ -20,6 +20,4 @@
 
 ## Representación visual del algoritmo
 
-Representación visual del algoritmo
-
-Representación textual del algoritmo
+[Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/02-EjemploTipos/EjemploTipos.cpp)
