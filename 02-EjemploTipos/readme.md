@@ -17,10 +17,15 @@
 *Se utilizarán:
 
 2 cadenas de caracteres (strings)
+
 1 numeor negativo (int)
+
 1 booleano (bool)
+
 1 numero positivo (unsigned)
+
 1 numero real (double)
+
 1 caracter (char)*
 
 # Representación del Algoritmo
