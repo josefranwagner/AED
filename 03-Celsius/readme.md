@@ -8,7 +8,7 @@
 
 **
 
-## ![Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/01-Adición/IPO.png)
+## Modelo IPO
 
 # Diseño de la Solución
 
