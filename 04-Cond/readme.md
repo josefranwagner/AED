@@ -14,7 +14,11 @@
 
 ## Léxico del Algoritmo
 
-**
+*Funcion Absouluto*
+
+*Funcion Minimo*
+
+*Funcion f3*
 
 # Representación del Algoritmo
 
