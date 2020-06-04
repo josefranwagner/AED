@@ -6,8 +6,9 @@
 
 - Una funcion que devuelva el valor absoluto de un numero entero
 - Una funcion que devuelva el valor minimo entre un par de valores enteros
-- Una funcion que 
-*
+- Una funcion cuya gráfica sea la siguiente:
+
+![GraficaFuncion](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/GraficaFuncion.png)
 
 ## Refinamiento del problema e Hipótesis de trabajo
 
