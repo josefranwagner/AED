@@ -14,13 +14,17 @@
 
 ## Léxico del Algoritmo
 
-**Funcion Absoluto**
+**Función Absoluto**
 
 ![Funcion Absoluto](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionAbsoluto.png)
 
-*Funcion Minimo*
+**Función Minimo**
 
-*Funcion f3*
+![Funcion Minimo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionMinimo.png)
+
+**Función f3**
+
+![Funcion f3](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionF3.png)
 
 # Representación del Algoritmo
 
