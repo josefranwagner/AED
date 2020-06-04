@@ -30,8 +30,8 @@
 
 ## Representación visual del algoritmo
 
-![Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/Min.cpp)
+[Funcion Minimo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/Min.cpp)
 
-![Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/Abs.cpp)
+[Funcion Absoluto](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/Abs.cpp)
 
-![Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/F3.cpp)
+[Funcion f3](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/F3.cpp)
