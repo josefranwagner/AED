@@ -2,7 +2,7 @@
 
 ## Transcripción del problema
 
-*Escribir y probar las siguientes funciones:
+*Escribir y probar las siguientes funciones:*
 
 - Una funcion que devuelva el valor absoluto de un numero entero
 - Una funcion que devuelva el valor minimo entre un par de valores enteros
