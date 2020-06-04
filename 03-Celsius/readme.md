@@ -14,7 +14,7 @@
 
 ## Léxico del Algoritmo
 
-![Lexico del Algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Celsius/funcion Celsius.png)
+![Lexico del Algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Celsius/funcionCelsius.png)
 
 # Representación del Algoritmo
 
