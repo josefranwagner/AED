@@ -2,7 +2,7 @@
 
 ## Transcripción del problema
 
-**
+*Escribir y probar una función que, dado un valor en grados Farenheit, calcule el equivalente en grados Celsius*
 
 ## Refinamiento del problema e Hipótesis de trabajo
 
