@@ -8,8 +8,6 @@
 
 **
 
-## Modelo IPO
-
 # Diseño de la Solución
 
 ## Léxico del Algoritmo
