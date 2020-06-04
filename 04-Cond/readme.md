@@ -14,7 +14,7 @@
 
 ## Léxico del Algoritmo
 
-*Funcion Absoluto*
+**Funcion Absoluto**
 
 ![Funcion Absoluto](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionAbsoluto.png)
 
