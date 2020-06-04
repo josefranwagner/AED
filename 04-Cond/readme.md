@@ -29,3 +29,9 @@
 # Representación del Algoritmo
 
 ## Representación visual del algoritmo
+
+![Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/Min.cpp)
+
+![Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/Abs.cpp)
+
+![Representación textual del algoritmo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/F3.cpp)
