@@ -12,7 +12,7 @@
 
 ## Refinamiento del problema e Hipótesis de trabajo
 
-*Se realizarán las funciones utilizando un condicional. Para el caso del valor absoluto pasaremos a positivos todos los valores que sean menores a cero, dejando igual los que sean mayoreso iguales a cero. Para la funcion de valor minimo, se recibiran dos enteros (a y b) y se compararan entre ellos, devolviendo como resultado a si a < b, b en cualquier otro caso. Por ultimo, para la función f3 verificaremos que suceda lo esperado para los valores x<-3, x=-3, -3<x<0, x=0, 0<x<3, x=3 y x>3. Todas las pruebas serán realizadas mediante la función assert, proporcionada por la libreria 'cassert'.*
+*Se realizarán las funciones utilizando un condicional. Para el caso del valor absoluto pasaremos a positivos todos los valores que cumplan la condición x<0, dejando igual los que sean mayores o iguales a cero. Para la funcion de valor minimo, se recibiran dos enteros (a y b) y se compararan entre ellos, devolviendo como resultado a si a < b, b en cualquier otro caso. Por ultimo, para la función f3 verificaremos que suceda lo esperado para los valores x<-3, x=-3, -3<x<0, x=0, 0<x<3, x=3 y x>3. Todas las pruebas serán realizadas mediante la función assert, proporcionada por la libreria 'cassert'.*
 
 # Diseño de la Solución
 
