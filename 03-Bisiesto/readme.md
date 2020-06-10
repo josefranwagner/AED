@@ -12,9 +12,7 @@
 
 ## Léxico del Algoritmo
 
-![FuncionCelsius](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Celsius/funcionCelsius.png)
-
-![FuncionAreNear](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Celsius/funcionAreNear.png)
+![IsBisiesto](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Bisiesto/IsBisiesto.png)
 
 # Representación del Algoritmo
 
