@@ -8,6 +8,8 @@
 
 *Se tomará como hipótesis que los años se pueden considerar como bisiestos a partir del año 1582, cualquier año menor a ese será considerado no bisiesto. A su vez consideraremos solo los años positivos como válidos, por ese motivo utilizaremos un tipo de dato que represente los numero naturales*
 
+## ![Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Bisiesto/IPO_bisiesto)
+
 # Diseño de la Solución
 
 ## Léxico del Algoritmo
