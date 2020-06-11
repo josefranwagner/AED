@@ -20,9 +20,9 @@
 
 ## Arbol de expresión
 
-## ![ArbolExpresion](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Bisiesto/arbol_expresion.PNG)
+## ![ArbolExpresion](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Bisiesto/arbol_expresion.png)
 
-## ![Glosario](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Bisiesto/glosario.PNG)
+## ![Glosario](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Bisiesto/glosario.png)
 
 ## Representación visual del algoritmo
 
