@@ -18,6 +18,12 @@
 
 # Representación del Algoritmo
 
+## Arbol de expresión
+
+## ![ArbolExpresion](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Bisiesto/arbol_expresion.PNG)
+
+## ![Glosario](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Bisiesto/glosario.PNG)
+
 ## Representación visual del algoritmo
 
 [Funcion IsBisiesto](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Bisiesto/IsBisiesto.cpp)
