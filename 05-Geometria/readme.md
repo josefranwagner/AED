@@ -21,9 +21,9 @@ Especificar conjunto de operaciones y conjunto de valores para cada uno y realiz
 
 **Tipos de datos**
 
-![Tipos De Datos](https://raw.githubusercontent.com/josefranwagner/AED/master/05-Geometria/Tipos de datos.png)
+![Tipos De Datos](https://raw.githubusercontent.com/josefranwagner/AED/master/05-Geometria/tiposDeDatos.png)
 
 **Operaciones**
 
-![Funcion Minimo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionMinimo.png)
+![Funcion Minimo](https://raw.githubusercontent.com/josefranwagner/AED/master/05-Geometria/funciones.png)
 
