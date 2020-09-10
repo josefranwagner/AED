@@ -21,5 +21,5 @@ Especificar conjunto de operaciones y conjunto de valores para cada uno y realiz
 
 **Operaciones**
 
-![Funcion Minimo](https://raw.githubusercontent.com/josefranwagner/AED/master/05-Geometria/funciones.png)
+![Funciones](https://raw.githubusercontent.com/josefranwagner/AED/master/05-Geometria/funciones.png)
 
