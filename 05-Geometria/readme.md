@@ -19,14 +19,11 @@ Especificar conjunto de operaciones y conjunto de valores para cada uno y realiz
 
 ## Léxico del Algoritmo
 
-**Función Absoluto**
+**Tipos de datos**
 
-![Funcion Absoluto](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionAbsoluto.png)
+![Tipos De Datos](https://raw.githubusercontent.com/josefranwagner/AED/master/05-Geometria/Tipos de datos.png)
 
-**Función Minimo**
+**Operaciones**
 
 ![Funcion Minimo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionMinimo.png)
 
-**Función f3**
-
-![Funcion f3](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionF3.png)
