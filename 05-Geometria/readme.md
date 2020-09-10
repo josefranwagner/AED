@@ -11,10 +11,6 @@ Desarrollar los siguientes tipos de datos:
 
 Especificar conjunto de operaciones y conjunto de valores para cada uno y realizar pruebas sobre dichas operaciones.
 
-## Refinamiento del problema e Hipótesis de trabajo
-
-**
-
 # Diseño de la Solución
 
 ## Léxico del Algoritmo
