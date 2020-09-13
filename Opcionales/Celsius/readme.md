@@ -12,12 +12,12 @@
 
 ## Léxico del Algoritmo
 
-![FuncionCelsius](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Celsius/funcionCelsius.png)
+![FuncionCelsius](https://raw.githubusercontent.com/josefranwagner/AED/master/Opcionales/Celsius/funcionCelsius.png)
 
-![FuncionAreNear](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Celsius/funcionAreNear.png)
+![FuncionAreNear](https://raw.githubusercontent.com/josefranwagner/AED/master/Opcionales/Celsius/funcionAreNear.png)
 
 # Representación del Algoritmo
 
 ## Representación visual del algoritmo
 
-[Funcion Celsius](https://raw.githubusercontent.com/josefranwagner/AED/master/03-Celsius/Celsius.cpp)
+[Funcion Celsius](https://raw.githubusercontent.com/josefranwagner/AED/master/Opcionales/Celsius/Celsius.cpp)
