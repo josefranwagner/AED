@@ -8,7 +8,7 @@
 - Una funcion que devuelva el valor minimo entre un par de valores enteros
 - Una funcion cuya gráfica sea la siguiente:
 
-![GraficaFuncion](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/GraficaFuncion.png)
+![GraficaFuncion](https://raw.githubusercontent.com/josefranwagner/AED/master/Opcionales/Cond/GraficaFuncion.png)
 
 ## Refinamiento del problema e Hipótesis de trabajo
 
@@ -20,22 +20,22 @@
 
 **Función Absoluto**
 
-![Funcion Absoluto](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionAbsoluto.png)
+![Funcion Absoluto](https://raw.githubusercontent.com/josefranwagner/AED/master/Opcionales/Cond/funcionAbsoluto.png)
 
 **Función Minimo**
 
-![Funcion Minimo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionMinimo.png)
+![Funcion Minimo](https://raw.githubusercontent.com/josefranwagner/AED/master/Opcionales/Cond/funcionMinimo.png)
 
 **Función f3**
 
-![Funcion f3](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/funcionF3.png)
+![Funcion f3](https://raw.githubusercontent.com/josefranwagner/AED/master/Opcionales/Cond/funcionF3.png)
 
 # Representación del Algoritmo
 
 ## Representación visual del algoritmo
 
-[Funcion Absoluto](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/Abs.cpp)
+[Funcion Absoluto](https://raw.githubusercontent.com/josefranwagner/AED/master/Opcionales/Cond/Abs.cpp)
 
-[Funcion Minimo](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/Min.cpp)
+[Funcion Minimo](https://raw.githubusercontent.com/josefranwagner/AED/master/Opcionales/Cond/Min.cpp)
 
-[Funcion f3](https://raw.githubusercontent.com/josefranwagner/AED/master/04-Cond/F3.cpp)
+[Funcion f3](https://raw.githubusercontent.com/josefranwagner/AED/master/Opcionales/Cond/F3.cpp)
