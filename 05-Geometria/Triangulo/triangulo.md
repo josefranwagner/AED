@@ -4,4 +4,4 @@
 
 # Operaciones y conjunto de valores
 
-![OperacionesYValoresTriangulo](https://raw.githubusercontent.com/josefranwagner/AED/master/05-Geometria/Triangulo/OperacionesValoresTriangulo.png)
+![OperacionesYValoresTriangulo](https://raw.githubusercontent.com/josefranwagner/AED/master/05-Geometria/Triangulo/operacionesValoresTriangulo.png)
