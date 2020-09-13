@@ -4,4 +4,4 @@
 
 # Operaciones y conjunto de valores
 
-![OperacionesYValoresColor](https://raw.githubusercontent.com/josefranwagner/AED/master/05-Geometria/Color/operacionesValoresColor.PNG)
+![OperacionesYValoresColor](https://raw.githubusercontent.com/josefranwagner/AED/master/05-Geometria/Color/operacionesValoresColor.png)
