@@ -11,7 +11,7 @@ Se deben desarrollar los siguientes tipos de datos:
 
 A su vez, debemos especificar conjunto de operaciones y conjunto de valores para cada uno de esos datos y realizar pruebas sobre dichas operaciones.
 
-## Consideraciones
+## Hipótesis de trabajo
 
 ### Color
 
