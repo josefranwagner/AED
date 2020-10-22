@@ -15,12 +15,19 @@ Se debe desarrollar un programa que permita leer poligonos ordenados de cierta f
 - La forma de guardar los datos en el archivo de salida sera la siguiente:
 
 Color: (R,G,B)
+
 Punto 1 : (x,y)
+
    .
+   
    .
+   
    .
+   
 Punto n : (x,y)
+
 Lados: n
+
 
 ## MODELO IPO 
 
