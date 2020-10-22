@@ -14,9 +14,7 @@ Se debe desarrollar un programa que permita leer poligonos ordenados de cierta f
 
 ## MODELO IPO 
 
-![Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/PoligonoFlujo/modeloIPO.PNG)
-
-
+![Modelo IPO](https://raw.githubusercontent.com/josefranwagner/AED/master/PoligonoFlujo/modeloIPO.png)
 
 
 
