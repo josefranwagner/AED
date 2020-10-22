@@ -1,3 +1,10 @@
+/*
+Programa: Leer poligonos y mostrarlos
+Objetivo: Obtener poligonos mediante un flujo de entrada, procesarlos y enviarlos a un flujo de salida.
+Autor: Jose Francisco Wagner
+Ultima modificación: 20201022.
+*/
+
 #include "showPol.h"
 
 //BLOQUE PRINCIPAL
