@@ -34,6 +34,8 @@ Se deben considerar dos tipos distintos para la implementación del tipo de dato
 
 - Se desarrollará un archivo poligonoLink.h que contenga los prototipos de las funciones a utilizar y la definición del tipo de dato. A su vez se debe crear un archivo poligonoLink.cpp que desarrolle las funciones enunciadas en el header y por último se probarán dichas funciones mediante el archivo poligonoLinkTest.cpp
 
+***Ambas variantes del tipo de dato poligono serán testeadas bajo el archivo*** **testFlujo.cpp** ***que contiene las directivas para resolver el problema*** 
+
 ## Descripción de archivos
 
 **color.cpp**: desarrollo de funciones para tipo de dato color
