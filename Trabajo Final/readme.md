@@ -2,11 +2,37 @@
 
 ### Transcripción del problema
 
-Crear un programa que permita extraer poligonos de un flujo de entrada y enviarlos a un flujo de salida cumpliendo la condición de que el perímetro de ese poligono sea superior a un valor X. En este caso fijamos el valor en 50.0.
+Crear un programa que permita extraer poligonos de un flujo de entrada y enviarlos a un flujo de salida cumpliendo la condición de que el perímetro de ese poligono sea superior a un valor X. 
 
 ### Refinamiento del problema e Hipótesis de trabajo
 
+Se deben considerar dos tipos distintos para la implementación del tipo de dato poligono, una será una versión continua donde los puntos del poligono esten almacenados en un arreglo y la otra versión a desarrollar debe ser enlazada, por medio de punteros y nodos que contengan los puntos del poligono.
 
+#### Tipo de dato color
+
+- Estructura compuesta por tres variables enteras con las que representaremos la intensidad de cada componente del color siguiendo el formato RGB (red, green, blue)
+
+- Se desarrollará un archivo color.h que contenga los prototipos de las funciones a utilizar y la definición del tipo de dato. A su vez se debe crear un archivo color.cpp que desarrolle las funciones enunciadas en el header y por último se probarán dichas funciones mediante el archivo colorTest.cpp
+
+#### Tipo de dato punto
+
+- Estructura compuesta por dos variables reales con las que representaremos las coordenadas x e y de los puntos que formen parte de cada poligono.
+
+- Se desarrollará un archivo punto.h que contenga los prototipos de las funciones a utilizar y la definición del tipo de dato. A su vez se debe crear un archivo punto.cpp que desarrolle las funciones enunciadas en el header y por último se probarán dichas funciones mediante el archivo puntoTest.cpp
+
+#### Tipo de dato poligono
+
+##### Variante continua
+
+- Estructura compuesta por un numero entero que representa la cantidad de lados que posee el poligono, un arreglo de 20 unidades como máximo (hipótesis de trabajo) y un color.
+
+- Se desarrollará un archivo poligono.h que contenga los prototipos de las funciones a utilizar y la definición del tipo de dato. A su vez se debe crear un archivo poligono.cpp que desarrolle las funciones enunciadas en el header y por último se probarán dichas funciones mediante el archivo poligonoTest.cpp
+
+##### Variante enlazada
+
+- Estructura compuesta por un puntero a un nodo que representa el primer punto del poligono y un color. Asimismo cada nodo es una estructura compuesta por un punto y un puntero al proximo nodo. Haremos uso del puntero nulo para marcar el fin de los puntos de un poligono.
+
+- Se desarrollará un archivo poligonoLink.h que contenga los prototipos de las funciones a utilizar y la definición del tipo de dato. A su vez se debe crear un archivo poligonoLink.cpp que desarrolle las funciones enunciadas en el header y por último se probarán dichas funciones mediante el archivo poligonoLinkTest.cpp
 
 ## Descripción de archivos
 
