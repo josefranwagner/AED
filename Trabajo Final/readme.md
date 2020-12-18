@@ -36,6 +36,10 @@ Se deben considerar dos tipos distintos para la implementación del tipo de dato
 
 _Ambas variantes del tipo de dato poligono serán testeadas bajo el archivo_ **testFlujo.cpp** _que contiene las directivas para resolver el problema_
 
+
+_Consideraremos que los poligonos a enviar al flujo de salida deberán cumplir el requisito de que su perímetro es mayor a 50.0 y su cantidad de lados debe ser mayor a 2 para que sea considerado poligono_
+
+
 ## Descripción de archivos
 
 **color.cpp**: desarrollo de funciones para tipo de dato color
