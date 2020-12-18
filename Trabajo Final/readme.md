@@ -1,5 +1,9 @@
 # Trabajo Final
 
+## Transcripción del problema
+
+Crear un programa que permita extraer poligonos de un flujo de entrada y enviarlos a un flujo de salida cumpliendo la condición de que el perímetro de ese poligono sea superior a un valor X. En este caso fijamos el valor en 50.0.
+
 ## Descripción de archivos
 
 **color.cpp**: desarrollo de funciones para tipo de dato color
